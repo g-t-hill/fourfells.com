@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <circle cx="40" cy="40" r="38" stroke="#FF9900" stroke-width="3" fill="#232F3E"/>
+  <path d="M24 45c4 2 10 3 16 3s12-1 16-3" stroke="#FF9900" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M52 43l4 2-4 2" stroke="#FF9900" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="40" y="37" text-anchor="middle" fill="white" font-family="Arial,sans-serif" font-size="11" font-weight="bold">AWS</text>
+</svg>
